@@ -52,7 +52,7 @@ CAMERA_NAME = "corner2"
 IMG_SIZE = (448, 448)          
 
 # Evo1 & rollout settings
-STATE_TAKE = 8                
+STATE_TAKE = 4                
 HORIZON = 15                  
 EPISODES = 10                  
 EPISODE_HORIZON = 400          
